@@ -1,1 +1,3 @@
 oqs
+hashlib
+liboqs
